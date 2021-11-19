@@ -1,5 +1,5 @@
 # Simple-Web-Server
-Using Python to create an HTTP server. The program can serve a single html on a specified port. It can be run on the command line or imported into another program. 
+Using Python to create an HTTP server. The program can serve a single html file on a specified port. It can be run on the command line or imported into another program. 
 
 <h1>What is HTTP?</h1>
 HTTP is a stateless request/response protocol. To display a web page, the client sends a request to the server, which in turn sends the page back to the client. The client then displays the page.
