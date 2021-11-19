@@ -12,7 +12,7 @@ HTTP is a stateless request/response protocol. To display a web page, the client
 * The web server can also store the state of the client, such as the cookies that the client sends to the server.
 
 <h1>What is a port?</h1>
-Web server uses ports to listen for incoming requests. The port number is a number that the server uses to identify itself.
+Web servers use ports to listen for incoming requests. The port number is a number that the server uses to identify itself.
 
 <h1>Requirements</h1>
 
