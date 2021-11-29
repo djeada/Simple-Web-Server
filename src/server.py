@@ -38,7 +38,8 @@ class SimpleWebServer(BaseHTTPRequestHandler):
 if __name__ == "__main__":
 
     port = DEFAULT_PORT
-
+    html_file_path = DEFAULT_HTML_PATH
+    
     if len(sys.argv) == 1:
         print(
             f"Using default html file path: {DEFAULT_HTML_PATH} and a default port: {DEFAULT_PORT}"
