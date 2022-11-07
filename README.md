@@ -39,3 +39,11 @@ python3 server.py path/to/file.html port_number
 ```
 
 * To stop the server, use the following key combination: <code>Ctrl + C</code>
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
